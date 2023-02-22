@@ -1,0 +1,4 @@
+X = int (input("Defina um valor para X: "))
+Y = int (input ("Defina um valor para Y: "))
+
+print ("Os valores definidos para X e Y foram: ", X, "e", Y)

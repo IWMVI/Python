@@ -1,0 +1,7 @@
+base = float (input("Qual o valor da base? "))
+altura = float (input ("Qual o valor da altura? "))
+lado = float (input("Qual o valor do lado? "))
+
+volume = (base*altura*lado)
+
+print ("O volume do paralelepípedo é: ", volume)

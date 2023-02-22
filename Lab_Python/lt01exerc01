@@ -1,0 +1,3 @@
+lado = int (input("Qual é o valor do lado?" ))
+area = (lado*lado)
+print ("A área é:",area)
